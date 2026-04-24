@@ -1,6 +1,9 @@
-# Ignore frontend files from language stats
-src/main/resources/templates/* linguist-detectable=false
-src/main/resources/static/* linguist-detectable=false
+# Ignore Thymeleaf templates (HTML)
+src/main/resources/templates/** linguist-detectable=false
 
-# Ignore CSS globally
+# Ignore static frontend assets
+src/main/resources/static/** linguist-detectable=false
+
+# Optional: ignore CSS/JS globally
 *.css linguist-detectable=false
+*.js linguist-detectable=false
