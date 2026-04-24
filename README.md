@@ -114,4 +114,3 @@ cd smart-contact-manager
 4. Run the application:
    mvn spring-boot:run
 5. Open in browser
-8. 
