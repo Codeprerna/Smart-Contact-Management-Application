@@ -1,9 +1,9 @@
-# Ignore Thymeleaf templates (HTML)
-src/main/resources/templates/** linguist-detectable=false
+# Only reduce templates impact (not completely hide everything)
+src/main/resources/templates/** linguist-generated=true
 
-# Ignore static frontend assets
-src/main/resources/static/** linguist-detectable=false
+# Keep static visible (optional)
+# src/main/resources/static/** linguist-detectable=false  ← REMOVE this
 
-# Optional: ignore CSS/JS globally
-*.css linguist-detectable=false
-*.js linguist-detectable=false
+# Keep CSS/JS visible (remove these)
+# *.css linguist-detectable=false
+# *.js linguist-detectable=false
