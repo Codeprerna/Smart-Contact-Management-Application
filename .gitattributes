@@ -1,5 +1,6 @@
-*.html linguist-detectable=false
+# Ignore frontend files from language stats
+src/main/resources/templates/* linguist-detectable=false
+src/main/resources/static/* linguist-detectable=false
+
+# Ignore CSS globally
 *.css linguist-detectable=false
-templates/* linguist-detectable=false
-static/* linguist-detectable=false
-*.html linguist-generated=true
