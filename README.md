@@ -1,15 +1,20 @@
-<h1 align="center">📇 Smart Contact Management System</h1>
+<h1 align="center">📇 Smart Contact Manager</h1>
 
 <p align="center">
-  A full-stack secure contact management application with authentication, dashboard, and advanced contact features
+A full-stack secure contact management application with authentication, dashboard, and advanced contact features
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Backend-Spring%20Boot-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Frontend-Thymeleaf%20%7C%20Tailwind-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Database-MySQL-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Security-Spring%20Security-red?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" />
+
+<img src="https://img.shields.io/badge/BACKEND-Spring%20Boot-6c757d?style=for-the-badge&labelColor=555&color=8ac926"/>
+<img src="https://img.shields.io/badge/FRONTEND-Thymeleaf%20%7C%20Tailwind-6c757d?style=for-the-badge&labelColor=555&color=1982c4"/>
+<img src="https://img.shields.io/badge/DATABASE-MySQL-6c757d?style=for-the-badge&labelColor=555&color=f9844a"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/SECURITY-Spring%20Security-6c757d?style=for-the-badge&labelColor=555&color=ef476f"/>
+<img src="https://img.shields.io/badge/STATUS-Completed-6c757d?style=for-the-badge&labelColor=555&color=06d6a0"/>
+
 </p>
 
 ---
